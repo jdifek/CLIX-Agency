@@ -4,8 +4,8 @@ import Link from "next/link";
 
 export default function HeroSection() {
   return (
-    <section className="relative min-h-screen flex items-center pt-16 bg-gradient-to-b from-background via-background to-primary/5">
-      <div className="container px-4">
+    <section className="relative flex items-center pt-16 to-primary/5">
+      <div className="container px-10 py-7">
         <div className="max-w-3xl">
           <h1 className="text-5xl sm:text-6xl font-bold mb-6 leading-tight">
             Crafting Digital
